@@ -1282,7 +1282,7 @@ class Main:
 
 
 def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.mrfb_king-cov', 'r').read()
+	key1=open('https://github.com/4B92B/approval.tx/blob/main/Approval.txt', 'r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://pastebin.com/raw/XpHrZSDP").text

@@ -69,7 +69,7 @@ class Main():
                 FG = '\x1b[0;92m'
                 GET = '\r'
             else:
-                key = '\x1b[0;91m b350225a7P1
+                key = '\x1b[0;91m -'3H90S2HOUPAA
                 stat = '\x1b[0;91m Paid USER '
                 FY = '\x1b[0;90m'
                 FG = '\x1b[0;90m'
